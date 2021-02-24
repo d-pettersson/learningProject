@@ -1,1 +1,5 @@
+# Dev. env. variables
 .env
+
+# Intellij files
+.idea
